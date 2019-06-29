@@ -11,7 +11,7 @@ command-not-found==0.3
 coreapi==2.3.3
 coreapi-cli==1.0.9
 coreschema==0.0.4
-cryptography==2.1.4
+cryptography==2.3
 cupshelpers==1.0
 decorator==4.3.2
 defer==1.0.6
